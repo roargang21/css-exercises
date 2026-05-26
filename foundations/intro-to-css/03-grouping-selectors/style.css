@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.a{
+    background-color: black;
+    color: white;
+}
+.b{
+    background-color: yellow;
+    color: black;
+}
+
+.a, .b{
+    padding: 10px;
+    border: black solid 2px;
+    font-size: 28px;
+    cursor: pointer;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
